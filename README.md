@@ -25,7 +25,7 @@ I have utilised the below packages and libraries
 3.matplotlib
 4.seaborn
 
-You can find the answers to my question @
+You can find the answers to my question @ https://medium.com/@yaminin617/how-i-decided-to-airbnb-c0dafc4e0da2
 
 Feel free to explore the notebook and add any other useful insights!!!
 
