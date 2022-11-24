@@ -29,7 +29,7 @@ Files In the Repository :
 
 ![image](https://user-images.githubusercontent.com/117662647/203756894-46173b66-4a7d-466d-bb05-d5d89a5dbcf2.png)
 
-You can find the answers to my question @ https://medium.com/@yaminin617/how-i-decided-to-airbnb-c0dafc4e0da2
+You can find the answers to my questions @ https://medium.com/@yaminin617/how-i-decided-to-airbnb-c0dafc4e0da2
 Feel free to explore the notebook and add any other useful insights!!!
 
 DataSource : 
@@ -37,7 +37,7 @@ DataSource :
 2. https://www.kaggle.com/datasets/airbnb/seattle
 
 Acknowledgements:
-Dataset Credit : AirBnB
+Dataset Credit : AirBnB , 
 This data is licensed under a Creative Commons Attribution 4.0 International License.
 
 LICENSE - GPL
